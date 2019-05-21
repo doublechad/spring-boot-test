@@ -9,6 +9,6 @@ public class DemoController {
     @GetMapping("/version")
     public String demoController(){
 
-        return "v2";
+        return "v3";
     }
 }
